@@ -23,5 +23,8 @@ public class M25 {
 			Util.sleep(2000);			
 		}
 		System.out.println("main end");
+		System.out.println("main end");
+		System.out.println("main end");
+		System.out.println("main end");
 	}
 }
